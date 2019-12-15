@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Yee Mey Seah
+name: Exploring microbial genomics and evolution
 
 # Short bio or description (displayed in the header)
-description: Scientist interested in microbial genomics and evolution
+description: Notes on bioinformatics software, and other thoughts on microbial genomics
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: 
 
 #
 # Flags below are optional
@@ -23,7 +23,7 @@ footer-links:
   flickr:
   github: yeemey
   instagram:
-  linkedin: 
+  linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: yeemeys
