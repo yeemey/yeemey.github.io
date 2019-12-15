@@ -1,12 +1,8 @@
-# User notes: bacterial haplotype reconstruction (1/n)
-## *Dec. 15, 2019*
 ## [4 min. read](http://www.niram.org/read/)
-
 ## Some background...
 About 10 months ago, armed with short-read sequences of experimentally evolved bacterial and archaeal populations, I decided that it would be "easier" to use haplotype reconstruction software to recover genotypes, than to either eyeball population-level variant frequencies over time (planning to write a paper on this - will link when it's in preprint), and then logically deduce which variants occurred on the same genetic background, or to sample genotypes from the population by selecting a number of clonal isolates for whole genome sequencing (planning a blog post on how to determine the number of isolates to appropriately sample a population with given amount of genetic diversity). I wasn't confident that I could do the former in a coherent, reproducible way, and in rejecting the latter, I was trying to avoid more lab work and sequencing costs.
 
 To no one's surprise, the software route was not easy. Frustration got the better of me then, and I shelved the effort, but now I'm ready to give it another shot, and thought I should record the attempts here, mainly for my own reference, but also in the hopes that it'll be useful to someone else.
-
 
 ### My data features
 The samples are populations of two microbial species, founded by clonal lab isolates - within-species genetic diversity is therefore not as high as say, an environmental metagenomics sample, or virus populations. The raw data are FASTQ files, obtained from Illumina HiSeq platform, paired end 2x150 bp reads.
