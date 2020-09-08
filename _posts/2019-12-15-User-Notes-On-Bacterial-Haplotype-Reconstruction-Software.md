@@ -46,4 +46,4 @@ Zagordi et al. suggested that for Illumina short reads, I should first use ```ba
 
 --
 
-Having learned my lesson about using tools that aren't intended for, or validated on specific types of data, next time on Lab Notes, I'll cover [EVORhA](bioinformatics.intec.ugent.be/kmarchal/EVORhA/), "the first bacterial haplotype reconstruction method" for the analysis of "pooled sequence data obtained from populations of clonal organisms with a low mutation frequency and/or data obtained with a short-read based technology."
+Having learned my lesson about using tools that aren't intended for, or validated on specific types of data, next time on User Notes, I'll cover [EVORhA](bioinformatics.intec.ugent.be/kmarchal/EVORhA/), "the first bacterial haplotype reconstruction method" for the analysis of "pooled sequence data obtained from populations of clonal organisms with a low mutation frequency and/or data obtained with a short-read based technology."
